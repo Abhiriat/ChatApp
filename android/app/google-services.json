@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947345818441",
+    "project_id": "chatapp-7db0c",
+    "storage_bucket": "chatapp-7db0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947345818441:android:122de74c4a73a7c8b65098",
+        "android_client_info": {
+          "package_name": "com.reactnativeai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSQT54-3qayHY8gdesfYBO_QHTI15hasI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,9 @@
 {
   "name": "reactnativeAI",
-  "displayName": "reactnativeAI"
+  "displayName": "reactnativeAI",
+  "expo": {
+    "android": {
+      "jsEngine": "hermes"
+    }
+  }
 }
